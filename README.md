@@ -11,8 +11,8 @@
 <br/>
 
 [![Status](https://img.shields.io/badge/Status-Available_for_Opportunities-f5a623?style=for-the-badge&logoColor=000)](https://linkedin.com/in/kartikeya2006)
-[![Role](https://img.shields.io/badge/Role-AI_Systems_Engineer-000000?style=for-the-badge&logo=openai&logoColor=f5a623)](https://github.com/kartikeya2006jay)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-f5a623?style=for-the-badge&logo=vercel&logoColor=000)](./index.html)
+[![Role](https://img.shields.io/badge/Role-AI_Systems_Engineer-000000?style=for-the-badge&logo=openai&logoColor=f5a623)](https://github.com/kartikeyajay2006)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-f5a623?style=for-the-badge&logo=vercel&logoColor=000)](https://kartikeya-portfolio-rx7w.vercel.app/)
 [![Cal.com](https://img.shields.io/badge/Schedule_Meeting-Cal.com-000?style=for-the-badge&logo=google-calendar&logoColor=f5a623)](https://cal.com/kartikeya-yadav-jerjn6/collaboration)
 
 </div>
@@ -109,7 +109,7 @@ python3 -m http.server 8000
 |---|---|
 | 📧 Email | [kartikeya2006jay@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kartikeya2006jay@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/kartikeya2006](https://linkedin.com/in/kartikeya2006) |
-| 🐙 GitHub | [github.com/kartikeya2006jay](https://github.com/kartikeya2006jay) |
+| 🐙 GitHub | [github.com/kartikeyajay2006](https://github.com/kartikeyajay2006) |
 | 📅 Schedule | [cal.com/kartikeya-yadav-jerjn6/collaboration](https://cal.com/kartikeya-yadav-jerjn6/collaboration) |
 
 <br/>
